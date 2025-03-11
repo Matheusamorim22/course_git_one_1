@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-a
-b 
-c 
-d 
-e
-MAIN
-enviando
-arquivo
